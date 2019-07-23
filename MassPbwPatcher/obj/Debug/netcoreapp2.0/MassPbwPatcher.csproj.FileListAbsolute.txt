@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\bin\Debug\netcoreapp2.0\MassPbwPatcher.deps.json
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\bin\Debug\netcoreapp2.0\MassPbwPatcher.runtimeconfig.json
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\bin\Debug\netcoreapp2.0\MassPbwPatcher.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\bin\Debug\netcoreapp2.0\MassPbwPatcher.dll
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.AssemblyInfo.cs
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\bin\Debug\netcoreapp2.0\MassPbwPatcher.pdb
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.dll
+C:\Users\Roman\source\repos\MassPbwPatcher\MassPbwPatcher\obj\Debug\netcoreapp2.0\MassPbwPatcher.pdb
